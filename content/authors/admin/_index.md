@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: ADI PRASETYO
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: adi prasetyo
 
 # Full name (for SEO)
 first_name: Adi
@@ -24,7 +24,7 @@ role: mahasiswa
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: ITESA
     url: https://openai.com/
 
 # Social network links
