@@ -1,6 +1,6 @@
 ---
 # Display name
-title:
+title: ADI PRASETYO
 
 # Name pronunciation (optional)
 name_pronunciation: adi prasetyo
@@ -24,7 +24,7 @@ role: mahasiswa
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: ITESA
+  - name: DICODING
     url: https://openai.com/
 
 # Social network links
