@@ -3,7 +3,7 @@
 title: ADI PRASETYO
 
 # Name pronunciation (optional)
-name_pronunciation: adi prasetyo
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Adi
@@ -25,7 +25,7 @@ role: mahasiswa
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: DICODING
-    url: https://openai.com/
+    url: https://www.dicoding.com/dashboard
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,15 +47,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Software Engineering 
+  - Web Development
+  - Mobile Application Development
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: S1 Rekayasa Perangkat Lunak
+    institution: ITESA Semarang
+    date_start: 2023
+    date_end: Sekarang
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -182,5 +182,6 @@ awards:
 ---
 
 ## About Me
+Adiprasetyo, mahasiswa berusia 19 tahun di ITESA Semarang, mengambil jurusan Rekayasa Perangkat Lunak (RPL). Memiliki minat dalam dunia pemrograman, eksplorasi teknologi, serta pengembangan perangkat lunak, Adiprasetyo aktif belajar dan mengasah keterampilan teknisnya, termasuk menggunakan Git, GitHub, dan VSCode untuk mendukung produktivitas coding-nya.
 
-Nama saya adi prasetyo, saya adalah mahasiswa jurusan rekayasa perangkat lunak di itesa. Saat ini, saya fokus dalam mempelajari bidang tertentu dalam jurusan ini
+Selain itu, Adiprasetyo memiliki semangat belajar yang tinggi, suka mendalami tools dan workflow pengembangan modern, serta tidak segan mencari solusi ketika menemui kendala teknis dalam proses belajar pemrograman.
