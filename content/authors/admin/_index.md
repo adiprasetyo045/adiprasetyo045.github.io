@@ -3,7 +3,7 @@
 title: ADI PRASETYO
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Adi
@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Software Engineering 
+  - Software Engineering
   - Web Development
   - Mobile Application Development
 
@@ -182,6 +182,7 @@ awards:
 ---
 
 ## About Me
+
 Adiprasetyo, mahasiswa berusia 19 tahun di ITESA Semarang, mengambil jurusan Rekayasa Perangkat Lunak (RPL). Memiliki minat dalam dunia pemrograman, eksplorasi teknologi, serta pengembangan perangkat lunak, Adiprasetyo aktif belajar dan mengasah keterampilan teknisnya, termasuk menggunakan Git, GitHub, dan VSCode untuk mendukung produktivitas coding-nya.
 
 Selain itu, Adiprasetyo memiliki semangat belajar yang tinggi, suka mendalami tools dan workflow pengembangan modern, serta tidak segan mencari solusi ketika menemui kendala teknis dalam proses belajar pemrograman.
