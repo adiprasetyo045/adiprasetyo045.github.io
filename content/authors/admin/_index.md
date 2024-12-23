@@ -3,7 +3,7 @@
 title: ADI PRASETYO
 
 # Name pronunciation (optional)
-name_pronunciation:
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Adi
@@ -55,7 +55,7 @@ education:
   - area: S1 Rekayasa Perangkat Lunak
     institution: ITESA Semarang
     date_start: 2023
-    date_end: Sekarang
+    date_end: 2027-06-03
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
