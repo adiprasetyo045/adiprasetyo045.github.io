@@ -3,7 +3,7 @@
 title: ADI PRASETYO
 
 # Name pronunciation (optional)
-name_pronunciation: 小迪
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Adi
@@ -142,9 +142,9 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Indonesia
     percent: 100
-  - name: Chinese
+  - name: English
     percent: 75
   - name: Portuguese
     percent: 25
@@ -183,6 +183,4 @@ awards:
 
 ## About Me
 
-Adiprasetyo, mahasiswa berusia 19 tahun di ITESA Semarang, mengambil jurusan Rekayasa Perangkat Lunak (RPL). Memiliki minat dalam dunia pemrograman, eksplorasi teknologi, serta pengembangan perangkat lunak, Adiprasetyo aktif belajar dan mengasah keterampilan teknisnya, termasuk menggunakan Git, GitHub, dan VSCode untuk mendukung produktivitas coding-nya.
-
-Selain itu, Adiprasetyo memiliki semangat belajar yang tinggi, suka mendalami tools dan workflow pengembangan modern, serta tidak segan mencari solusi ketika menemui kendala teknis dalam proses belajar pemrograman.
+Adiprasetyo, a 19-year-old student at ITESA Semarang, majoring in Software Engineering (RPL). Having an interest in the world of programming, technology exploration, and software development, Adiprasetyo actively learns and hones his technical skills, including using Git, GitHub, and VSCode to support his coding productivity. In addition, Adiprasetyo has a high enthusiasm for learning, likes to explore modern development tools and workflows, and does not hesitate to find solutions when encountering technical obstacles in the process of learning programming.
