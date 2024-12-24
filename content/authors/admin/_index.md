@@ -3,7 +3,7 @@
 title: ADI PRASETYO
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: 小迪
 
 # Full name (for SEO)
 first_name: Adi
@@ -11,7 +11,7 @@ last_name: prasetyo
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🙂‍↔️
 
 # Is this the primary user of the site?
 superuser: true
@@ -89,7 +89,7 @@ work:
     company_url: ""
     company_logo: ""
     date_start: 2021-01-01
-    date_end: ""
+    date_end: "2023-03-01"
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
