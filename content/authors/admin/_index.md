@@ -143,11 +143,11 @@ skills:
 
 languages:
   - name: Indonesia
-    percent: 100
+    percent: 99
   - name: English
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 20
+  - name: China
+    percent: 3
 
 # Awards.
 #   Add/remove as many awards below as you like.
