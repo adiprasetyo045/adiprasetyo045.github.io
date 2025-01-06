@@ -170,8 +170,8 @@ awards:
     date: "2023-07-01"
     awarder: edX
     icon: edx
-    summary: | 
-       Menguasai mekanisme blockchain, prinsip kerja Bitcoin, dan penerapan smart contract.
+    summary: |  
+    "Menguasai mekanisme blockchain, prinsip kerja Bitcoin, dan penerapan smart contract"
       Learned:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
