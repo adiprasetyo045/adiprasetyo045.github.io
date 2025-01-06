@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: mahasiswa
+role: Mahasiswa Software Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -54,19 +54,19 @@ interests:
 education:
   - area: S1 Rekayasa Perangkat Lunak
     institution: ITESA Semarang
-    date_start: 2023
+    date_start: 2023-06-03
     date_end: 2027-06-03
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Aktif mempelajari pengembangan perangkat lunak modern dengan fokus pada pengembangan aplikasi berbasis web dan mobile. Tertarik dalam penelitian yang mengintegrasikan teknologi AI dalam pengembangan software.
     button:
       text: "Read Thesis"
       url: "https://example.com"
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Kursus dan Sertifikasi
+    institution: Platform Belajar Online
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      Menyelesaikan berbagai kursus dalam bidang pemrograman, data science, AI, dan blockchain dari platform terkemuka seperti Dicoding, Coursera, dan edX.
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -84,12 +84,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ""
-    company_logo: ""
-    date_start: 2021-01-01
-    date_end: "2023-03-01"
+  - position: Software Developer Intern
+    company_name:  Dicoding Academy
+    company_url:  https://www.dicoding.com/
+    company_logo: "dicoding"
+    date_start: 2023-01-01
+    date_end: "2024-03-01"
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -113,31 +113,35 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ""
-        percent: 80
+        description: "Pemrograman berbasis data, AI, dan otomatisasi"
+        percent: 70
         icon: code-bracket
-      - name: Data Science
-        description: ""
-        percent: 100
-        icon: chart-bar
+      - name: JavaScript
+        description: "Pengembangan front-end menggunakan React dan Node.js"
+        percent: 50
+        icon: code-bracket
       - name: SQL
-        description: ""
-        percent: 40
+        description: "Manajemen basis data relasional."
+        percent: 75
         icon: circle-stack
+      - name: git
+        description: "Version control untuk kolaborasi pengembangan proyek"
+        percent: 90
+        icon: git
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - name: Hiking
-        description: ""
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ""
-        percent: 100
-        icon: cat
+      - name: Bersepeda
+        description: " Bersepeda untuk menjaga kesehatan fisik sekaligus menjelajahi lingkungan sekitar."
+        percent: 80
+        icon: bicycle
+      - name: Bermain Game
+        description: "Menyukai game strategi, petualangan, dan simulasi untuk relaksasi dan mengasah keterampilan berpikir"
+        percent: 90
+        icon: gamepad
       - name: Photography
-        description: ""
+        description: "Dokumentasi momen melalui fotografi landscape dan potret."
         percent: 80
         icon: camera
 
@@ -147,7 +151,7 @@ languages:
   - name: English
     percent: 20
   - name: China
-    percent: 3
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -160,13 +164,14 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+       Mempelajari konsep jaringan saraf mendalam, memahami cara kerja AI, serta mengimplementasikan model deep learning untuk pemecahan masalah nyata.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: "2023-07-01"
     awarder: edX
     icon: edx
-    summary: |
+    summary: | 
+    Menguasai mekanisme blockchain, prinsip kerja Bitcoin, dan penerapan smart contract.
       Learned:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
