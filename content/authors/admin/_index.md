@@ -8,7 +8,7 @@ last_name: Prasetyo
 
 # Status emoji
 status:
-  icon: 🙂
+  icon: 🙂  # Icon ini sesuai dengan emoji yang valid
 
 # Is this the primary user of the site?
 superuser: true
@@ -94,33 +94,33 @@ skills:
       - name: Python
         description: Pemrograman data dan AI
         percent: 70
-        icon: code-bracket
+        icon: "fab fa-python"  # FontAwesome Icon
       - name: JavaScript
         description: Pengembangan front-end dengan React dan Node.js
         percent: 50
-        icon: code-bracket
+        icon: "fab fa-js"  # FontAwesome Icon
       - name: SQL
         description: Manajemen basis data
         percent: 75
-        icon: circle-stack
+        icon: "fas fa-database"  # FontAwesome Icon
       - name: Git
         description: Version control
         percent: 90
-        icon: git
+        icon: "fab fa-git"  # FontAwesome Icon
   - name: Hobbies
     items:
       - name: Bersepeda
         description: Menjaga kesehatan fisik
         percent: 80
-        icon: bicycle
+        icon: "fas fa-bicycle"  # FontAwesome Icon
       - name: Bermain Game
         description: Menyukai game strategi
         percent: 90
-        icon: gamepad
+        icon: "fas fa-gamepad"  # FontAwesome Icon
       - name: Fotografi
         description: Dokumentasi landscape dan potret
         percent: 80
-        icon: camera
+        icon: "fas fa-camera"  # FontAwesome Icon
 
 # Languages
 languages:
@@ -152,7 +152,6 @@ awards:
     summary: >
       Memahami OOP menggunakan R untuk analisis data.
 ---
-
 
 ## Tentang Saya
 
