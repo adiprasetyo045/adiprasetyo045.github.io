@@ -2,16 +2,13 @@
 # Display name
 title: ADI PRASETYO
 
-# Name pronunciation (optional)
-name_pronunciation: 
-
 # Full name (for SEO)
 first_name: Adi
 last_name: Prasetyo
 
 # Status emoji
 status:
-  icon: 🙂‍↔️
+  icon: 🙂
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,8 +21,8 @@ role: Mahasiswa Software Engineering
 
 # Organizations/Affiliations to display in Biography block
 organizations:
-  - name: DICODING
-    url: https://www.dicoding.com/dashboard
+  - name: Dicoding
+    url: https://www.dicoding.com/
 
 # Social network links
 profiles:
@@ -61,18 +58,18 @@ education:
       Aktif mempelajari pengembangan perangkat lunak modern dengan fokus pada
       pengembangan aplikasi berbasis web dan mobile. Tertarik dalam penelitian
       yang mengintegrasikan teknologi AI dalam pengembangan software.
-  - area: SMA MUHAMMADIYAH 1 WONOGIRI
+  - area: SMA Muhammadiyah 1 Wonogiri
     institution: SMA Muhammadiyah 1 Wonogiri
     date_start: 2020-01-01
     date_end: 2023-12-31
     summary: >
-      Selama masa pendidikan di SMA Muhammadiyah 1 Wonogiri, saya juga secara aktif mengikuti kursus-kursus online dari platform terkenal seperti Dicoding, Coursera, dan edX. Fokus pembelajaran mencakup pemrograman, data science, kecerdasan buatan (AI), dan blockchain, yang memperluas keterampilan teknis dan wawasan saya dalam teknologi terkini.
-  - area: SMP MUHAMMADIYAH 7 EROMOKO
+      Aktif mengikuti kursus online dari platform seperti Dicoding, Coursera, dan edX.
+  - area: SMP Muhammadiyah 7 Eromoko
     institution: SMP Muhammadiyah 7 Eromoko
     date_start: 2017-01-01
     date_end: 2020-12-31
     summary: >
-      Selama masa pendidikan di SMP Negeri 2 Wonogiri, saya aktif dalam kegiatan ekstrakurikuler dan mulai mengembangkan minat dalam teknologi dan pemrograman. Pengalaman ini menjadi fondasi untuk minat saya di bidang teknologi dan pendidikan lebih lanjut.
+      Mulai mengembangkan minat di bidang teknologi dan pemrograman.
 
 # Work Experience
 work:
@@ -95,44 +92,43 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: Pemrograman berbasis data, AI, dan otomatisasi
+        description: Pemrograman data dan AI
         percent: 70
         icon: code-bracket
       - name: JavaScript
-        description: Pengembangan front-end menggunakan React dan Node.js
+        description: Pengembangan front-end dengan React dan Node.js
         percent: 50
         icon: code-bracket
       - name: SQL
-        description: Manajemen basis data relasional
+        description: Manajemen basis data
         percent: 75
         icon: circle-stack
       - name: Git
-        description: Version control untuk kolaborasi pengembangan proyek
+        description: Version control
         percent: 90
         icon: git
-
   - name: Hobbies
     items:
       - name: Bersepeda
-        description: Bersepeda untuk menjaga kesehatan fisik
+        description: Menjaga kesehatan fisik
         percent: 80
         icon: bicycle
       - name: Bermain Game
-        description: Menyukai game strategi dan simulasi
+        description: Menyukai game strategi
         percent: 90
         icon: gamepad
       - name: Fotografi
-        description: Dokumentasi momen landscape dan potret
+        description: Dokumentasi landscape dan potret
         percent: 80
         icon: camera
 
 # Languages
 languages:
   - name: Indonesia
-    percent: 99
+    percent: 100
   - name: English
-    percent: 20
-  - name: China
+    percent: 60
+  - name: Mandarin
     percent: 30
 
 # Awards
@@ -148,15 +144,15 @@ awards:
     date: 2023-07-01
     awarder: edX
     summary: >
-      Menguasai mekanisme blockchain, prinsip kerja Bitcoin, dan smart contract.
+      Menguasai mekanisme blockchain dan smart contract.
   - title: Object-Oriented Programming in R
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     date: 2023-01-21
     awarder: DataCamp
     summary: >
-      Memahami OOP menggunakan sistem S3 dan R6 dalam R untuk analisis data.
-
+      Memahami OOP menggunakan R untuk analisis data.
 ---
+
 
 ## Tentang Saya
 

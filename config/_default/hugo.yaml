@@ -1,8 +1,4 @@
 # Configuration of Hugo
-# Guide: https://docs.hugoblox.com/tutorial/
-# Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
 # Website name
 title: Adi Prasetyo | Software Engineer & Student
 # Website URL
@@ -29,28 +25,28 @@ pagination:
   pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
-footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
   authors: '/author/:slug/'
-disableAliases: true
+disableAliases: false
 outputs:
-  home: [HTML, RSS, headers, redirects, backlinks]
+  home: [HTML, RSS]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
   quality: 80
   anchor: smart
-timeout: 600000
+timeout: 60000
 taxonomies:
   author: authors
   tag: tags
   publication_type: publication_types
 markup:
-  _merge: deep
   highlight:
     lineNos: false
 security:
-  _merge: deep
+  enableInlineScripts: false
 sitemap:
-  _merge: deep
+  changefreq: daily
+  priority: 0.5
+  filename: sitemap.xml
