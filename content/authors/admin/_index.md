@@ -153,6 +153,7 @@ awards:
       Memahami OOP menggunakan R untuk analisis data.
 ---
 
+
 ## Tentang Saya
 
 Adi Prasetyo adalah seorang mahasiswa di Program Studi Rekayasa Perangkat Lunak (RPL) di ITESA Semarang. Saya memiliki minat yang besar dalam pemrograman, teknologi, dan pengembangan perangkat lunak. Saat ini, saya aktif mempelajari berbagai teknologi modern seperti AI, blockchain, dan pengembangan aplikasi berbasis web dan mobile. Selain itu, saya juga berkontribusi sebagai software developer intern di Dicoding Academy.
