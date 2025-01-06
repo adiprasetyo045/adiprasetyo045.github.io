@@ -61,19 +61,18 @@ education:
       Aktif mempelajari pengembangan perangkat lunak modern dengan fokus pada
       pengembangan aplikasi berbasis web dan mobile. Tertarik dalam penelitian
       yang mengintegrasikan teknologi AI dalam pengembangan software.
-  - area: Kursus dan Sertifikasi
-    institution: Platform Belajar Online
-    date_start: 2016-01-01
+  - area: SMA MUHAMMADIYAH 1 WONOGIRI
+    institution: SMA Muhammadiyah 1 Wonogiri
+    date_start: 2020-01-01
+    date_end: 2023-12-31
+    summary: >
+      Selama masa pendidikan di SMA Muhammadiyah 1 Wonogiri, saya juga secara aktif mengikuti kursus-kursus online dari platform terkenal seperti Dicoding, Coursera, dan edX. Fokus pembelajaran mencakup pemrograman, data science, kecerdasan buatan (AI), dan blockchain, yang memperluas keterampilan teknis dan wawasan saya dalam teknologi terkini.
+  - area: SMP MUHAMMADIYAH 7 EROMOKO
+    institution: SMP Muhammadiyah 7 Eromoko
+    date_start: 2017-01-01
     date_end: 2020-12-31
     summary: >
-      Menyelesaikan berbagai kursus dalam bidang pemrograman, data science, AI,
-      dan blockchain dari platform terkemuka seperti Dicoding, Coursera, dan edX.
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: >
-      GPA: 3.4/4.0
+      Selama masa pendidikan di SMP Negeri 2 Wonogiri, saya aktif dalam kegiatan ekstrakurikuler dan mulai mengembangkan minat dalam teknologi dan pemrograman. Pengalaman ini menjadi fondasi untuk minat saya di bidang teknologi dan pendidikan lebih lanjut.
 
 # Work Experience
 work:
@@ -86,8 +85,8 @@ work:
       Berkontribusi dalam pengembangan dan optimasi platform edukasi digital.
   - position: Backend Software Engineer
     company_name: X
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-01-01
+    date_end: 2021-12-31
     summary: >
       Mengembangkan dan memelihara sistem backend untuk aplikasi skala besar.
 
