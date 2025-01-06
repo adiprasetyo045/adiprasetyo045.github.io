@@ -35,15 +35,15 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/adiprasetyo/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/adiprasetyo
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/adiprasetyo/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=XXXXXXX
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-XXXX-XXXX
 
 # Interests
 interests:
@@ -155,8 +155,9 @@ awards:
     awarder: DataCamp
     summary: >
       Memahami OOP menggunakan sistem S3 dan R6 dalam R untuk analisis data.
+
 ---
 
 ## Tentang Saya
 
-Adiprasetyo, mahasiswa RPL di ITESA Semarang, memiliki minat besar dalam pemrograman, teknologi, dan pengembangan perangkat lunak. Aktif mempelajari teknologi modern dan terus mengembangkan keterampilan teknisnya.
+Adi Prasetyo adalah seorang mahasiswa di Program Studi Rekayasa Perangkat Lunak (RPL) di ITESA Semarang. Saya memiliki minat yang besar dalam pemrograman, teknologi, dan pengembangan perangkat lunak. Saat ini, saya aktif mempelajari berbagai teknologi modern seperti AI, blockchain, dan pengembangan aplikasi berbasis web dan mobile. Selain itu, saya juga berkontribusi sebagai software developer intern di Dicoding Academy.
