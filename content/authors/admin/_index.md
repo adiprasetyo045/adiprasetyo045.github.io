@@ -94,34 +94,33 @@ skills:
       - name: Python
         description: Pemrograman data dan AI
         percent: 70
-        icon: "fab fa-python"  # FontAwesome Icon
+        
       - name: JavaScript
         description: Pengembangan front-end dengan React dan Node.js
         percent: 50
-        icon: "fab fa-js"  # FontAwesome Icon
+        
       - name: SQL
         description: Manajemen basis data
         percent: 75
-        icon: "fas fa-database"  # FontAwesome Icon
+       
       - name: Git
         description: Version control
         percent: 90
-        icon: "fab fa-git"  # FontAwesome Icon
+        
   - name: Hobbies
     items:
       - name: Bersepeda
         description: Menjaga kesehatan fisik
         percent: 80
-        icon: "fas fa-bicycle"  # FontAwesome Icon
+       
       - name: Bermain Game
         description: Menyukai game strategi
         percent: 90
-        icon: "fas fa-gamepad"  # FontAwesome Icon
+       
       - name: Fotografi
         description: Dokumentasi landscape dan potret
         percent: 80
-        icon: "fas fa-camera"  # FontAwesome Icon
-
+        
 # Languages
 languages:
   - name: Indonesia
