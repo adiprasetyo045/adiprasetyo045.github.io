@@ -157,6 +157,6 @@ awards:
       Memahami OOP menggunakan sistem S3 dan R6 dalam R untuk analisis data.
 ---
 
-## About Me
+## Tentang Saya
 
 Adiprasetyo, mahasiswa RPL di ITESA Semarang, memiliki minat besar dalam pemrograman, teknologi, dan pengembangan perangkat lunak. Aktif mempelajari teknologi modern dan terus mengembangkan keterampilan teknisnya.
