@@ -100,7 +100,7 @@ work:
     company_url: ""
     company_logo: ""
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: "2020-12-31"
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
