@@ -14,7 +14,7 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: adi_prasetyo
+      username: adi prasetyo
       text: >
         Adi Prasetyo adalah mahasiswa Rekayasa Perangkat Lunak di ITESA Semarang
         dan pengembang perangkat lunak dengan fokus pada teknologi modern seperti
