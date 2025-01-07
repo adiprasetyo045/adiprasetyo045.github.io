@@ -1,7 +1,7 @@
 ---
 title: "Adi Prasetyo"
 bio: "Mahasiswa RPL di ITESA Semarang dan Software Developer Intern di Dicoding."
-avatar: "avatar.jpg" # opsional
+avatar: "avatar.jpg" 
 social:
   - icon: github
     url: "https://github.com/username"
@@ -19,7 +19,7 @@ last_name: Prasetyo
 
 # Status emoji
 status:
-  icon: 🙂  # Icon ini sesuai dengan emoji yang valid
+  icon: 🙂 
 
 # Is this the primary user of the site?
 superuser: true
