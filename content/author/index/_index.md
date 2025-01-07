@@ -11,7 +11,7 @@ social:
 
 ---
 # Display name
-title: ADI PRASETYO
+title: ADI PRAS
 
 # Full name (for SEO)
 first_name: Adi
