@@ -1,15 +1,4 @@
 ---
-title: "Adi Prasetyo"
-bio: "Mahasiswa RPL di ITESA Semarang dan Software Developer Intern di Dicoding."
-avatar: "avatar.jpg" 
-social:
-  - icon: github
-    url: "https://github.com/username"
-  - icon: linkedin
-    url: "https://linkedin.com/in/username"
----
-
----
 # Display name
 title: ADI PRAS
 
