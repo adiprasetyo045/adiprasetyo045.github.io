@@ -65,7 +65,7 @@ education:
     summary: >
       Aktif mengikuti kursus online dari platform seperti Dicoding, Coursera, dan edX.
   - area: SMP Muhammadiyah 7 Eromoko
-    institution: SMP Muhammadiyah 7 Eromoko
+    institution: SMP Muhammadiyah 7 
     date_start: 2017-01-01
     date_end: 2020-12-31
     summary: >
