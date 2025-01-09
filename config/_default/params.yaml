@@ -58,8 +58,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-params:
-  authors:
-    adi_prasetyo:
-      name: "Adi Prasetyo"
-      bio: "Mahasiswa RPL."
