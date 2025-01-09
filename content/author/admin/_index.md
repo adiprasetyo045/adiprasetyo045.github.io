@@ -8,7 +8,7 @@ last_name: Prasetyo
 
 # Status emoji
 status:
-  icon: 🙂
+  icon: 🙂 
 
 # Is this the primary user of the site?
 superuser: true
@@ -94,33 +94,33 @@ skills:
       - name: Python
         description: Pemrograman data dan AI
         percent: 70
-
+        
       - name: JavaScript
         description: Pengembangan front-end dengan React dan Node.js
         percent: 50
-
+        
       - name: SQL
         description: Manajemen basis data
         percent: 75
-
+       
       - name: Git
         description: Version control
         percent: 90
-
+        
   - name: Hobbies
     items:
       - name: Bersepeda
         description: Menjaga kesehatan fisik
         percent: 80
-
+       
       - name: Bermain Game
         description: Menyukai game strategi
         percent: 90
-
+       
       - name: Fotografi
         description: Dokumentasi landscape dan potret
         percent: 80
-
+        
 # Languages
 languages:
   - name: Indonesia
