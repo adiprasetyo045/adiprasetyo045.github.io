@@ -1,20 +1,9 @@
 ---
 # Display name
-<<<<<<< HEAD
-title: LATIF ALMIZAN
+title: ADI PRASETYO
 
 # Name pronunciation (optional)
-name_pronunciation: 
-
-# Full name (for SEO)
-first_name: Mizan
-last_name: Al-Qubro
-
-# Status emoji
-status:
-  icon: 🌟
-=======
-title: ADI PRASETYO
+name_pronunciation: ADI PRASETYO
 
 # Full name (for SEO)
 first_name: Adi
@@ -22,8 +11,7 @@ last_name: Prasetyo
 
 # Status emoji
 status:
-  icon: 
->>>>>>> 3af81247f52d11439b67d02815cb32c17b6fc3e2
+  icon: 🌟
 
 # Is this the primary user of the site?
 superuser: true
@@ -32,8 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-<<<<<<< HEAD
-role: Data Analyst
+role: Mahasiswa
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
