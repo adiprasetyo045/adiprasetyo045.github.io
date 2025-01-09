@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ADI PRAS
+title: ADI PRASETYO
 
 # Full name (for SEO)
 first_name: Adi
