@@ -1,4 +1,4 @@
-baseURL: 'https://adiprasetyo.dev/'
+baseURL: "https://adiprasetyo.dev/"
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
@@ -14,13 +14,13 @@ build:
   enableRobotsTXT: true
   ignoreFiles:
     - '\.ipynb$'
-    - '.ipynb_checkpoints$'
+    - ".ipynb_checkpoints$"
     - '\.Rmd$'
     - '\.Rmarkdown$'
-    - '_cache$'
-  
+    - "_cache$"
+
 permalinks:
-  authors: '/author/:slug/'
+  authors: "/author/:slug/"
 
 outputs:
   home: [HTML, RSS]
@@ -50,5 +50,4 @@ sitemap:
   priority: 0.5
   filename: sitemap.xml
   about:
-  author: adi_prasetyo
-
+  author: admin
