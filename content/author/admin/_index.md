@@ -127,9 +127,7 @@ languages:
     percent: 100
   - name: English
     percent: 60
-  - name: Mandarin
-    percent: 30
-
+  
 # Awards
 awards:
   - title: Neural Networks and Deep Learning
