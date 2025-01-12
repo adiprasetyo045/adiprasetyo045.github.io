@@ -1,6 +1,7 @@
 ---
 # Display name
 title: ADI PRASETYO
+avatar : images/avatar.jpg
 
 # Full name (for SEO)
 first_name: Adi
@@ -35,7 +36,7 @@ profiles:
     url: https://www.instagram.com/adiprasetyo/
   - icon: brands/github
     url: https://github.com/adiprasetyo
-    
+
 
 # Interests
 interests:
