@@ -8,7 +8,7 @@ last_name: Prasetyo
 
 # Status emoji
 status:
-  icon: 
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,13 +21,13 @@ role: Mahasiswa Software Engineering
 
 # Organizations/Affiliations to display in Biography block
 organizations:
-  - name: Dicoding
-    url: https://www.dicoding.com/
+  - name: ITESA Muhammadiyah Semarang
+    url: https://openai.com/
 
 # Social network links
 profiles:
   - icon: at-symbol
-    url: "mailto:prasetyaadhi398@gmail.com"
+    url: "prasetyaadhi398@gmail.com"
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -35,12 +35,7 @@ profiles:
     url: https://www.instagram.com/adiprasetyo/
   - icon: brands/github
     url: https://github.com/adiprasetyo
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/adiprasetyo/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=XXXXXXX
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-XXXX-XXXX
+    
 
 # Interests
 interests:
@@ -150,6 +145,5 @@ awards:
       Memahami OOP menggunakan R untuk analisis data.
 ---
 
-      ## About me
-
-      Adi Prasetyo adalah seorang mahasiswa di Program Studi Rekayasa Perangkat Lunak (RPL) di ITESA Semarang. Saya memiliki minat yang besar dalam pemrograman, teknologi, dan pengembangan perangkat lunak. Saat ini, saya aktif mempelajari berbagai teknologi modern seperti AI, blockchain, dan pengembangan aplikasi berbasis web dan mobile. Selain itu, saya juga berkontribusi sebagai software developer intern di Dicoding Academy.
+## About me
+Adi Prasetyo adalah seorang mahasiswa di Program Studi Rekayasa Perangkat Lunak (RPL) di ITESA Semarang. Saya memiliki minat yang besar dalam pemrograman, teknologi, dan pengembangan perangkat lunak. Saat ini, saya aktif mempelajari berbagai teknologi modern seperti AI, blockchain, dan pengembangan aplikasi berbasis web dan mobile. Selain itu, saya juga berkontribusi sebagai software developer intern di Dicoding Academy.
