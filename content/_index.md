@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        As a Software Engineering student at ITESA Semarang, I am passionate about exploring the intersection of technology, programming, and innovation. I actively delve into topics such as software development, artificial intelligence, and blockchain.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My mission is to build impactful solutions that solve real-world problems using technology. I enjoy sharing insights about programming, cutting-edge technologies, and my learning journey through blogs and discussions.
+
+        I also apply both theoretical and practical methods to analyze how software engineering drives advancements in various industries.
     design:
       columns: '1'
   - block: collection
