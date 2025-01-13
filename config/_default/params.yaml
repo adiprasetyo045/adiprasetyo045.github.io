@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: "© {2024} Me. This work is licensed under {Rahmat Riansyah}."
+    notice: "© {2025} adi prasetyo . This work is licensed under {Adi prasetyo}."
     license:
       enable: true
       allow_derivatives: false
@@ -49,7 +49,7 @@ footer:
 
 # Localization
 locale:
-  date_format: "Jan 8, 2025"
+  date_format: "Jan 13, 2025"
   time_format: "3:04 PM"
 
 # Site features
@@ -58,3 +58,5 @@ features:
     enable: false
   privacy_pack:
     enable: false
+# parameter untuk logo
+logo: "images/adi-prasetyo-logo.png"
