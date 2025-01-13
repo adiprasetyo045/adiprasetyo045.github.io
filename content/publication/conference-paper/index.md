@@ -52,7 +52,7 @@ featured: true
 
 url_pdf: 'https://drive.google.com/file/d/1pahE6R6ooazT-KaRi3EVpXv7mGARRkSs/view?usp=drive_link'
 url_code: 'https://www.figma.com/design/Fzg30qOmu3pGy8VUD4JV5J/Prototype-Design-ui%2Fux-Application-Uka-Kaffe?node-id=0-1&p=f&t=aRAD5E681Nyj4Zho-0'
-url_dataset: 'https://github.com/AdiPrasetyo/kaffe-dataset''
+url_dataset: 'https://github.com/AdiPrasetyo/kaffe-dataset'
 url_poster: ''
 url_project: 'Proyek kaffe masih dalam tahap prototype'
 url_slides: ''
