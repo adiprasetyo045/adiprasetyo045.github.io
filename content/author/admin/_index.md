@@ -1,7 +1,9 @@
 ---
 # Display name
 title: ADI PRASETYO
-avatar : images/avatar.jpg
+
+# Name pronunciation (optional)
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Adi
@@ -23,7 +25,7 @@ role: Mahasiswa Software Engineering
 # Organizations/Affiliations to display in Biography block
 organizations:
   - name: ITESA Muhammadiyah Semarang
-    url: https://openai.com/
+    url: https://itesa.ac.id/
 
 # Social network links
 profiles:
@@ -50,7 +52,7 @@ education:
     institution: ITESA Semarang
     date_start: 2023-06-03
     date_end: 2027-06-03
-    summary: >
+    summary: |
       Aktif mempelajari pengembangan perangkat lunak modern dengan fokus pada
       pengembangan aplikasi berbasis web dan mobile. Tertarik dalam penelitian
       yang mengintegrasikan teknologi AI dalam pengembangan software.
@@ -58,13 +60,15 @@ education:
     institution: SMA Muhammadiyah 1 Wonogiri
     date_start: 2020-01-01
     date_end: 2023-12-31
-    summary: >
+    summary: |
+      GPA: 86.14/100
+
       Aktif mengikuti kursus online dari platform seperti Dicoding, Coursera, dan edX.
   - area: SMP Muhammadiyah 7 Eromoko
     institution: SMP Muhammadiyah 7 
     date_start: 2017-01-01
     date_end: 2020-12-31
-    summary: >
+    summary: |
       Mulai mengembangkan minat di bidang teknologi dan pemrograman.
 
 # Work Experience
@@ -74,35 +78,32 @@ work:
     company_url: https://www.dicoding.com/
     date_start: 2023-01-01
     date_end: 2024-03-01
-    summary: >
+    summary: |2-
       Berkontribusi dalam pengembangan dan optimasi platform edukasi digital.
   - position: Backend Software Engineer
     company_name: X
     date_start: 2020-01-01
     date_end: 2021-12-31
-    summary: >
+    summary: |
       Mengembangkan dan memelihara sistem backend untuk aplikasi skala besar.
 
 # Skills
+# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: Pemrograman data dan AI
-        percent: 70
-
-      - name: JavaScript
-        description: Pengembangan front-end dengan React dan Node.js
-        percent: 50
-
+        description: ""
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ""
+        percent: 60
+        icon: chart-bar
       - name: SQL
-        description: Manajemen basis data
-        percent: 75
-
-      - name: Git
-        description: Version control
-        percent: 90
-
+        description: ""
+        percent: 70
+        icon: circle-stack
   - name: Hobbies
     items:
       - name: Bersepeda
@@ -130,19 +131,19 @@ awards:
     url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: 2023-11-25
     awarder: Coursera
-    summary: >
+    summary: |
       Memahami cara kerja AI serta mengimplementasikan model deep learning.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: 2023-07-01
     awarder: edX
-    summary: >
+    summary: |
       Menguasai mekanisme blockchain dan smart contract.
   - title: Object-Oriented Programming in R
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     date: 2023-01-21
     awarder: DataCamp
-    summary: >
+    summary: |
       Memahami OOP menggunakan R untuk analisis data.
 ---
 
