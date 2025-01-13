@@ -58,6 +58,9 @@ features:
     enable: false
   privacy_pack:
     enable: false
-params :
- showAboutme: true
- ShowAvatar: true
+  [params]
+  hero:
+    name: "Adi Prasetyo"
+    subtitle: "Mahasiswa Software Engineering"
+    avatar: "images/avatar.jpg"
+    about: "Mahasiswa RPL di ITESA Semarang. Saya tertarik dengan pengembangan perangkat lunak dan teknologi AI."
