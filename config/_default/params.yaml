@@ -58,8 +58,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
-  [params]
-  hero:
+    
     name: "Adi Prasetyo"
     subtitle: "Mahasiswa Software Engineering"
     avatar: "images/avatar.jpg"
